@@ -15,14 +15,14 @@ For this weeks challenge we were tasked with creating an application that an emp
 
 By clicking the second link below you will be brought to an application that looks like the following screenshot. Once at the application you will be directed to answer some prompts to specify which criteria you would like met and then presented a password that meets that criteria. 
 
-<img src=" ">
+<img src="./assets/images/screenshot.png">
 
 
 ## Links
 
 Repository: [
-    ( )]
+    (https://github.com/anjaliroland/M3-JavaScript-Password-Generator)]
 
 Deployed Application: [
-    ( )]
+    (https://anjaliroland.github.io/M3-JavaScript-Password-Generator/)]
 
